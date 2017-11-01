@@ -1,0 +1,14 @@
+{
+  "name": "time-tracking",
+  "version": "1.0.0",
+  "description": "Connecting Qbserve and Toggle for mor efficient time tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajan Singh",
+  "license": "MIT",
+  "dependencies": {
+    "toggl-api": "^1.0.1"
+  }
+}
