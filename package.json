@@ -4,11 +4,16 @@
   "description": "Connecting Qbserve and Toggle for mor efficient time tracking",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rajan Singh",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.17.0",
+    "dotenv": "^4.0.0",
+    "moment": "^2.19.1",
+    "node-watch": "^0.5.5",
     "toggl-api": "^1.0.1"
   }
 }
